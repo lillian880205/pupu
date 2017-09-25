@@ -1,6 +1,6 @@
 public class GitTEST {
 
     public static void main(String[] args){
-        System.out.println("PUPU is cute~~~~~");
+        System.out.println("PUPU is cute<3~~~~~");
     }
 }
